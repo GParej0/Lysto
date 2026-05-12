@@ -15,7 +15,7 @@ The app allows users to create, manage, and organize daily tasks through a clean
 
 ## 📸 Preview
 
-![Lysto Preview](https://via.placeholder.com/800x400?text=Lysto+Task+Management+App)
+![Lysto Preview](image.png)
 
 ---
 
